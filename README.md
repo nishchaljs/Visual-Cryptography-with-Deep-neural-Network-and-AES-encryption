@@ -1,6 +1,6 @@
 # Visual-Cryptography-with-Deep-neural-Networks with AES encryption
 
-The original Implementation of the Deep neural networks model can be found in this repo: https://github.com/nishchaljs/Deep-Video-Steganography-Hiding-Videos-in-Plain-Sight
+The original Implementation of the Deep neural networks model can be found in this repo: https://github.com/anilsathyan7/Deep-Video-Steganography-Hiding-Videos-in-Plain-Sight
 
 **Steganography** is the practice of **concealing a secret message** within another, ordinary, message.The messages can be images, text, video, audio etc. In modern steganography, the goal is to **covertly communicate** a digital message.
 The main aim of steganogrpahy is to prevent the detection of a hidden message. It is often combined with **cryptography** to improve the security of the hidden message.**Steganalysis** is the study of detecting messages hidden using steganography (breaking); this is analogous to cryptanalysis applied to cryptography.Steganography is used in **applications** like confidential communication, secret data storing, digital watermarking etc.
